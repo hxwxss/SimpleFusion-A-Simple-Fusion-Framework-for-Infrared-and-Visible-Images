@@ -1,0 +1,1 @@
+# SimpleFusion-A-Simple-Fusion-Framework-for-Infrared-and-Visible-Images
