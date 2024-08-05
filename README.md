@@ -28,4 +28,3 @@ Dataset/
 # How to use this project?
 ## 1. metrics
 You can verify our work by downloading the metrics.zip file from the project. The code in metrics.zip is sourced from an open-source project on GitHub, and we express our gratitude to the original authors. When using the code, please remember to modify the file paths accordingly.
-## 2. Coming soon.
